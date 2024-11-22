@@ -28,7 +28,7 @@
 - O **nível máximo** é significativamente menor, garantindo melhor eficiência nas operações.
 - Operações têm custo **O(log n)** no pior caso.
 - Exemplo:
-  - Inserindo `[4, 2, 5, 1, 7, 6, 3]` na árvore, o nível máximo será **3** e o caminho mais longo será `[4, 5, 7]` ou `[4, 2, 1]`.
+  - Inserindo `[4, 2, 5, 1, 7, 6, 3]` na árvore, o nível máximo será **4** e o caminho mais longo será `[4, 5, 7,6]`.
 
 #### **Analogia:**
 - É como subir uma escada organizada em formato de pirâmide, permitindo alcançar o topo com menos passos.
@@ -102,7 +102,7 @@ O caminho mais longo é a sequência de nós que conecta a raiz à folha mais pr
 #### **Exemplo Visual:**
 
 - **Desbalanceada**: `[1, 2, 3, 4, 5, 6, 7]`
-- **Balanceada**: `[4, 5, 7]`
+- **Balanceada**: `[4, 5, 7,6]`
 
 ---
 
