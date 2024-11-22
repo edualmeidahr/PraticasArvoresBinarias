@@ -1,0 +1,44 @@
+banana:Uma fruta tropical amarela, rica em potássio.
+apple:Uma fruta redonda e vermelha ou verde, muito consumida no mundo todo.
+grape:Pequena fruta roxa ou verde, usada principalmente para fazer vinho.
+orange:Uma fruta cítrica rica em vitamina C, com sabor doce e azedo.
+kiwi:Fruta marrom com polpa verde e sementes pretas, originária da Nova Zelândia.
+mango:Fruta tropical doce e suculenta, muito popular no Brasil e em países tropicais.
+avocado:Fruta de casca rugosa, com polpa cremosa e sabor suave, rica em gorduras saudáveis.
+blueberry:Fruta pequena e azulada, rica em antioxidantes e comumente usada em sobremesas.
+peach:Fruta redonda e macia, com casca aveludada e polpa doce e suculenta.
+pineapple:Fruta tropical de casca espinhosa e polpa doce e ácida, conhecida por seu sabor único.
+cherry:Fruta pequena e vermelha, com um sabor doce ou ácido, muito utilizada em conservas.
+strawberry:Fruta vermelha e doce, com sementes na parte externa, amplamente consumida.
+pear:Fruta doce e suculenta com uma forma geralmente em formato de sino.
+papaya:Fruta tropical de polpa laranja e sementes pretas, originária das Américas.
+melon:Fruta grande e suculenta, com polpa doce e água, geralmente consumida no verão.
+watermelon:Fruta de casca verde e polpa vermelha e doce, rica em água, perfeita para o calor.
+plum:Fruta pequena e arredondada, com sabor doce ou ácido, e com um caroço no centro.
+apricot:Fruta pequena e arredondada, de casca dourada e polpa macia e doce.
+pomegranate:Fruta com casca espessa e numerosas sementes vermelhas, utilizadas em sucos e sobremesas.
+fig:Fruta doce e de formato peculiar, com polpa suculenta e sementes pequenas.
+lemon:Fruta cítrica amarela, muito usada para fazer sucos e temperos devido ao seu sabor ácido.
+lime:Fruta cítrica verde, com sabor mais ácido que o limão, usada principalmente em drinks.
+plum:Fruta pequena, de casca fina e polpa doce ou ácida, dependendo da variedade.
+paprika:Pó vermelho utilizado como tempero, feito a partir da pimenta.
+coconut:Fruto de uma palmeira tropical, com polpa branca e líquido doce conhecido como água de coco.
+carrot:Raiz comestível de cor laranja, muito utilizada em saladas e pratos diversos.
+spinach:Folha verde e nutritiva, amplamente consumida crua ou cozida.
+broccoli:Vegetal verde, rico em fibras e vitaminas, frequentemente consumido cozido ou no vapor.
+lettuce:Folha de vegetal usada em saladas, disponível em várias variedades como alface romana e crespa.
+cabbage:Vegetal de folhas verdes compactas, utilizado em saladas ou pratos cozidos.
+tomato:Fruta ou vegetal de cor vermelha ou amarela, consumida tanto crua quanto cozida.
+potato:Raiz comestível, rica em carboidratos, que é um dos alimentos básicos em muitas culturas.
+onion:Vegetal de sabor pungente, usado para temperar pratos, comumente encontrado em várias variedades.
+garlic:Planta da família das cebolas, usada como tempero, conhecida por seu sabor forte.
+chili:Pimenta picante que é usada como tempero em vários pratos, especialmente em comidas mexicanas.
+ginger:Raiz comestível com sabor picante e forte, usada como tempero ou em chás.
+basil:Erva aromática com folhas verdes, usada como tempero na culinária mediterrânea e italiana.
+oregano:Erva seca amplamente usada para temperar pizzas, molhos e pratos italianos.
+parsley:Planta de folhas verdes, com sabor suave, usada em saladas e como tempero.
+coriander:Planta de folhas verdes, com sabor distinto e amplamente usada na culinária indiana.
+mint:Planta de folhas verdes, com sabor refrescante, usada tanto em pratos salgados quanto doces.
+rosemary:Erva aromática com folhas finas e perfume forte, comumente usada na culinária mediterrânea.
+sage:Erva de folhas cinzas ou verdes, com um sabor terroso, usada em molhos e carnes.
+thyme:Erva aromática com folhas pequenas, usada para temperar pratos de carne e vegetais.

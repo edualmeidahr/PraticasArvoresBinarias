@@ -53,7 +53,46 @@
 
 ---
 
-### 4. Caminho Mais Longo
+### 4 . Cálculo da Depreciação
+
+Para analisar o impacto do desbalanceamento na profundidade média da árvore, realizamos os cálculos baseados nas profundidades dos nós:
+
+#### **Árvore Desbalanceada**
+- **Profundidades dos nós:**
+  - Nível 1: Nó 1
+  - Nível 2: Nó 2
+  - Nível 3: Nó 3
+  - Nível 4: Nó 4
+  - Nível 5: Nó 5
+  - Nível 6: Nó 6
+  - Nível 7: Nó 7
+- **Soma das profundidades:**  
+  \( 1 + 2 + 3 + 4 + 5 + 6 + 7 = 28 \)
+- **Profundidade média:**  
+  \( \frac{28}{7} = 4 \)
+
+#### **Árvore Balanceada**
+- **Profundidades dos nós:**
+  - Nível 1: Nó 4
+  - Nível 2: Nós 2 e 5
+  - Nível 3: Nós 1, 3 e 7
+  - Nível 4: Nós 6
+- **Soma das profundidades:**  
+  \( 1 + 2 + 2 + 3 + 3 + 3 + 4 = 18 \)
+- **Profundidade média:**  
+  \( \frac{18}{7} \approx 2,57 \)
+
+#### **Cálculo do Percentual de Depreciação**
+- Diferença entre as profundidades médias:  
+  \( 4 - 2,57 = 1,43 \)
+- Percentual de redução devido ao balanceamento:  
+  \( \left( \frac{1,43}{4} \right) \times 100 \approx 35,75\% \)
+
+#### **Interpretação**
+- A árvore balanceada apresenta uma redução de aproximadamente **35,75%** na profundidade média em comparação à árvore desbalanceada. Esse resultado evidencia a eficiência estrutural do balanceamento, reduzindo o impacto do desbalanceamento natural e otimizando as operações.
+
+
+### 5. Caminho Mais Longo
 #### **Definição:**
 O caminho mais longo é a sequência de nós que conecta a raiz à folha mais profunda da árvore. Ele é um indicador direto do grau de desbalanceamento da árvore.
 
@@ -67,6 +106,6 @@ O caminho mais longo é a sequência de nós que conecta a raiz à folha mais pr
 
 ---
 
-### 5. Conclusão
+### 6. Conclusão
 - Árvores desbalanceadas apresentam crescimento **linear** na profundidade e nos custos de operações, tornando-as ineficientes para grandes conjuntos de dados.
 - Árvores balanceadas mantêm o desempenho **logarítmico**, garantindo eficiência mesmo com muitas inserções ou buscas.
