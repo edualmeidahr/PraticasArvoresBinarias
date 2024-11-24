@@ -151,7 +151,7 @@ def menu():
             word = input("Digite a palavra: ").strip().lower()  # Converter para minúsculas
             definition = input("Digite a definição: ").strip()
             tree.add_word(word, definition)
-            with open(file_name, "a") as file:
+            with open(file_path, "a") as file:
                 file.write(f"{word}:{definition}\n")
             print(f"A palavra '{word}' foi adicionada com sucesso!")
 
